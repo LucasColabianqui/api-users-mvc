@@ -36,11 +36,12 @@ camadas principais:
     ├── public/
     │   ├── index.html
     │   └── script.js
-    │
+    │    
     ├── src/
     │   ├── controllers/
     │   │   └── userController.js
-    │   │
+    │   ├── model/
+    │   │   └── user.js
     │   └── data/
     │       └── data.js
     │
