@@ -1,6 +1,6 @@
 # API de Cadastro de Usuários (MVC)
 
-## 📚 Descrição
+##  Descrição
 
 Este projeto é uma aplicação simples que integra **Front-end (HTML +
 JavaScript)** com um **Back-end em Node.js utilizando Express**.
@@ -16,7 +16,7 @@ lógica e interface.
 
 ------------------------------------------------------------------------
 
-## 🏗 Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 O projeto segue a arquitetura **MVC**, que divide o sistema em três
 camadas principais:
@@ -29,7 +29,7 @@ camadas principais:
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura de Pastas
+##  Estrutura de Pastas
 
     meu-projeto/
     │
@@ -52,7 +52,7 @@ camadas principais:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 -   Node.js
 -   Express
@@ -62,7 +62,7 @@ camadas principais:
 
 ------------------------------------------------------------------------
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### 1️⃣ Clonar o repositório
 
@@ -86,7 +86,7 @@ O servidor será iniciado em:
 
 ------------------------------------------------------------------------
 
-## 🌐 Rotas da API
+##  Rotas da API
 
   Método   Rota             Descrição
   -------- ---------------- -------------------------
@@ -98,7 +98,7 @@ O servidor será iniciado em:
 
 ------------------------------------------------------------------------
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 ✔ Cadastro de usuários\
 ✔ Listagem de usuários cadastrados\
@@ -108,7 +108,7 @@ O servidor será iniciado em:
 
 ------------------------------------------------------------------------
 
-## 📌 Autor
+##  Autor
 
 Projeto desenvolvido por **Lucas Colabianqui** para atividade da
-disciplina de **Engenharia de Software**.
+disciplina de **Qualidade de Software**.
